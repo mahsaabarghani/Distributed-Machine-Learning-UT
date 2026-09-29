@@ -21,9 +21,7 @@ Coursework repository for the **Distributed Machine Learning** course at the **U
 > **University:** University of Tehran  \
 > **Course:** Distributed Machine Learning  \
 > **Semester:** Fall 2024  \
-> **Student:** Mahsa Abarghani  \
-> **Student number:** 810103053
-
+> **Student:** Mahsa Abarghani  
 ## Overview
 
 These exercises study how machine-learning workloads behave when computation is distributed across CPU cores, GPUs, multiple machines, and Spark workers. The work combines implementation with experimental analysis of execution time, model accuracy, memory usage, communication backends, scaling behavior, and profiling results.
